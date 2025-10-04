@@ -1,0 +1,7 @@
+{
+  "name": "SurakshaConnect",
+  "description": "An enterprise security platform for tenant verification, property management, and emergency response, built with a focus on data privacy and compliance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
